@@ -1,0 +1,23 @@
+{
+    "name": "com.cordovaplugincamerapreview.sampleapp",
+    "version": "1.0.0",
+    "displayName": "cordova-plugin-camera-sample-app",
+    "cordova": {
+        "platforms": [
+            "ios"
+        ],
+        "plugins": {
+            "cordova-plugin-camera-preview": {},
+            "cordova-plugin-file": {},
+            "cordova-plugin-background-upload": {},
+            "cordova-plugin-file-transfer": {}
+        }
+    },
+    "dependencies": {
+        "cordova-ios": "^4.4.0",
+        "cordova-plugin-background-upload": "^1.0.6",
+        "cordova-plugin-camera-preview": "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview.git",
+        "cordova-plugin-file": "^5.0.0",
+        "cordova-plugin-file-transfer": "^1.7.0"
+    }
+}
