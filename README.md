@@ -1,5 +1,7 @@
-SeeFood UIUC
+SeeFood UIUC (READ DESCRIPTION TO GET THE ACTUAL FILE)
 =======================
+
+The file was to big to upload to git, so here is a dropbox link to it: https://www.dropbox.com/s/xeesdpue5x7loqm/cordova-plugin-camera-preview-sample-app-master%20copy.zip?dl=0
 
 This is our final project for CS196.
 
