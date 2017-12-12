@@ -1,7 +1,7 @@
-cordova-plugin-camera-preview Sample Cordova App
+SeeFood UIUC
 =======================
 
-This is a sample cordova application for <a href="https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview">cordova-plugin-camera-preview</a>
+This is our final project for CS196.
 
 ## Install
 ```
